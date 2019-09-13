@@ -1,0 +1,60 @@
+html{
+    background-image: url("images/background.jpg");
+    background-size:cover;
+}
+body{
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: auto;
+    width: 600px;
+    padding: 10px 0px;
+    border-radius: 25px;
+    border: 2px purple;
+    border-style: solid;
+    font-family: "Montserrat";
+    color: white;
+    text-align: center;
+}
+
+
+img.com{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:500px;
+}
+
+.log{
+    border: 200px purple;
+    padding: 25px 75px;
+    background-color: purple;
+    margin:0 auto;
+    
+}
+
+button {
+    padding: 5px 10px;
+    background-color: green;
+    color: white;
+}
+
+.forgot:hover{
+    
+    text-decoration: underline;
+    color: yellow;
+}
+
+.forgot{
+    text-decoration: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+img{
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: auto;
+    
+    
+}
